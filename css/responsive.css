@@ -1,0 +1,930 @@
+/*========== lg css responsive start ============*/
+@media (min-width:992px) and (max-width:1200px) {
+/*============= common css start ==============*/
+h2 {
+	font-size: 40px;
+	line-height: 50px;
+}
+.button {
+	font-size: 14px;
+}
+h5 {
+	font-size: 18px;
+}
+/*============= common css end ==============*/
+/*============== navbar css start ============*/
+.px-5 {
+	padding-right: 0rem !important;
+	padding-left: 0rem !important;
+}
+nav{
+	text-align: center;
+}
+.navbar .navbar-nav {
+	margin-right: 0px;
+}
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-toggler i{
+		color: #fff;
+}
+.navbar .navbar-brand p {
+	font-size: 20px;
+	margin-left: 0px;
+}
+/*============== navbar css end ============*/
+/*============== banner css start ============*/
+#banner .banner-text h1 {
+	font-size: 60px;
+}
+#banner .banner-img img {
+	right: -190px;
+}
+/*============== banner css end ============*/
+/*============== gain css start ============*/
+#gain .gain-text p {
+	padding-right: 0px;
+}
+/*============== gain css end ============*/
+/*============== program css start ============*/
+#program .program-item .program-text .primary-text {
+	margin-top: 0px;
+}
+#program {
+	padding-bottom: 40px;
+}
+#program .program-title h2::after {
+	right: -440px;
+}
+/*============== program css start ============*/
+/*============== slider css start ============*/
+#slider .slider-title h2 {
+	margin-bottom: 60px;
+}
+#slider .slider-title h2::after {
+	right: -630px;
+	width: 610px;
+}
+#slider .slider-text{
+	margin-top: 20px;
+}
+#slider .slider-text h4 {
+	margin: 5px 0;
+	padding-right: 0px;
+}
+h5 {
+	font-size: 18px;
+	line-height: 0px;
+}
+#slider .slider-text p {
+	margin-right: 0px;
+}
+#slider .prev {
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+	right: 55px;
+}
+#slider .next {
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+}
+/*============== slider css end ============*/
+/*============== books-slider css end ============*/
+.books-slider {
+	top: -160px;
+}
+#books-slider {
+	margin-bottom: 0px;
+}
+#books .books-title h2::after {
+	right: -708px;
+	width: 680px;
+}
+.slick-initialized .slick-slide {
+	margin: 0 5px;
+}
+#books-slider .prev {
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+	bottom: -80px;
+	right: 75px;
+}
+#books-slider .next {
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+	bottom: -80px;
+}
+#books-slider .slick-dots .slick-active button {
+	width: 13px;
+	height: 13px;
+}
+#books-slider .slick-dots li button {
+	width: 6px;
+	height: 6px;
+	margin-right: 8px;
+}
+#books-slider .slick-dots {
+	bottom: -85px;
+}
+/*============== books-slider css end ============*/
+/*============== books-slider css end ============*/
+#subscribe {
+	position: relative;
+	top: 0;
+}
+#subscribe .subscribe {
+	padding: 10px 30px 20px 30px;
+	border-radius: 20px;
+}
+#subscribe .subscribe h3 {
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+#subscribe .subscribe form input {
+	padding: 10px;
+	font-size: 12px;
+	border-radius: 7px;
+}
+#subscribe .subscribe form #email {
+	padding: 10px;
+	margin-bottom: 15px;
+}
+.subscribe-img {
+	margin-left: 0px;
+}
+/*============== books-slider css end ============*/
+/*============== footer css start ============*/
+footer {
+	padding-top: 20px;
+}
+footer .footer-hadding{
+	padding-top: 50px;
+}
+footer .footer-hadding h2 {
+	padding-top: 10px;
+	font-size: 30px;
+}
+footer .footer-text p {
+	margin-top: 50px;
+}
+footer::after {
+	bottom: 120px;
+}
+.footer-copyright .text p {
+	font-size: 12px;
+	margin-top: 10px;
+}
+.footer-copyright .icone{
+	font-size: 20px;
+	margin-right: 0px;
+	text-align: center;
+}
+.footer-copyright .number p {
+	font-size: 14px;
+	text-align: center;
+}
+/*============== footer css end ============*/	
+}
+/*========== lg css responsive end ============*/
+
+/*========== md css responsive start ============*/
+@media (min-width:768px) and (max-width:991px) {
+/*============= common css start ==============*/
+h2 {
+	font-size: 40px;
+	line-height: 50px;
+}
+.secondary-text {
+	font-size: 14px;
+	line-height: 23px;
+}
+.button {
+	padding: 10px 20px;
+	font-size: 14px;
+}
+h5 {
+	font-size: 18px;
+}
+/*============= common css end ==============*/
+/*============== navbar css start ============*/
+.px-5 {
+	padding-right: 0rem !important;
+	padding-left: 0rem !important;
+}
+nav{
+	text-align: center;
+}
+.navbar .navbar-nav {
+	margin-right: 0px;
+}
+.navbar .nav-link {
+	font-size: 14px;
+}
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-toggler i{
+		color: #fff;
+}
+.navbar .navbar-brand p {
+	font-size: 20px;
+	margin-left: 0px;
+}
+/*============== navbar css end ============*/
+/*============== banner css start ============*/
+#banner .banner-text h1 {
+	font-size: 60px;
+}
+#banner .banner-img img {
+	right: -190px;
+}
+/*============== banner css end ============*/
+/*============== gain css start ============*/
+#gain .gain-text p {
+	padding-right: 0px;
+}
+/*============== gain css end ============*/
+/*============== program css start ============*/
+#program .program-title h2 {
+	padding-right: 0px;
+}
+#program .program-title h2::after {
+	right: -347px;
+	width: 330px;
+}
+#program .program-item .program-text .primary-text {
+	font-size: 16px;
+	padding-right: 0px;
+	margin-top: 0px;
+}
+#program .program-item .program-text .secondary-text {
+	margin: 10px 0;
+	padding-right: 0px;
+}
+#program .program-item .program-text .primary-text {
+	margin-top: 10px;
+}
+.program-item .program-text .list ul li {
+	font-size: 14px;
+	line-height: 25px;
+}
+.program-item .program-text .rear-text {
+	font-size: 12px;
+}
+#program {
+	padding-bottom: 40px;
+}
+/*============== program css start ============*/
+/*============== slider css start ============*/
+#slider .slider-title h2 {
+	margin-bottom: 60px;
+}
+#slider .slider-title h2::after {
+	right: -480px;
+	width: 440px;
+}
+#slider .slider-text{
+	margin-top: 20px;
+}
+#slider .slider-text h4 {
+	margin: 5px 0;
+	padding-right: 0px;
+}
+#slider .slider-text p {
+	font-size: 14px;
+	line-height: 20px;
+	margin-right: 0px;
+}
+h5 {
+	font-size: 18px;
+	line-height: 0px;
+}
+#slider .slider-text .pstyle {
+	font-size: 14px;
+	line-height: 24px;
+	color: #4D5F93;
+}
+#slider .slider-img{
+	margin-top: 115px;
+}
+#slider .prev {
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+	right: 55px;
+}
+#slider .next {
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+}
+/*============== slider css end ============*/
+/*============== books-slider css end ============*/
+.books-slider {
+	top: -115px;
+}
+#books-slider {
+	margin-bottom: 0px;
+}
+#books .books-title h2::after {
+	right: -510px;
+	width: 480px;
+}
+.slick-initialized .slick-slide {
+	margin: 0 5px;
+}
+#books-slider .prev {
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+	bottom: -80px;
+	right: 75px;
+}
+#books-slider .next {
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+	bottom: -80px;
+}
+#books-slider .slick-dots .slick-active button {
+	width: 13px;
+	height: 13px;
+}
+#books-slider .slick-dots li button {
+	width: 6px;
+	height: 6px;
+	margin-right: 8px;
+}
+#books-slider .slick-dots {
+	bottom: -85px;
+}
+/*============== books-slider css end ============*/
+/*============== books-slider css end ============*/
+#subscribe {
+	position: relative;
+	top: 0;
+}
+#subscribe .subscribe {
+	padding: 10px 30px 20px 30px;
+	border-radius: 20px;
+}
+#subscribe .subscribe h3 {
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+#subscribe .subscribe form input {
+	padding: 10px;
+	font-size: 12px;
+	border-radius: 7px;
+}
+#subscribe .subscribe form #email {
+	padding: 10px;
+	margin-bottom: 15px;
+}
+.subscribe-img {
+	margin-left: 0px;
+}
+/*============== books-slider css end ============*/
+/*============== footer css start ============*/
+footer {
+	padding-top: 20px;
+}
+footer .footer-hadding{
+	padding-top: 50px;
+}
+footer .footer-hadding h2 {
+	padding-top: 10px;
+	font-size: 30px;
+}
+footer .footer-text p {
+	margin-top: 50px;
+}
+footer::after {
+	bottom: 120px;
+}
+.footer-copyright .text p {
+	font-size: 12px;
+	margin-top: 10px;
+}
+.footer-copyright .icone{
+	font-size: 20px;
+	margin-right: 0px;
+	text-align: center;
+}
+.footer-copyright .number p {
+	font-size: 14px;
+	text-align: center;
+}
+/*============== footer css end ============*/
+}
+/*========== md css responsive end ============*/
+
+/*========== sm css responsive start ============*/
+@media (min-width:576px) and (max-width:767px) {
+/*============= common css start ==============*/
+h4 {
+font-size: 23px;
+line-height: 31px;
+}
+h2 {
+font-size: 35px;
+line-height: 45px;
+}
+.secondary-text {
+font-size: 14px;
+line-height: 23px;
+}
+.button {
+padding: 8px 18px;
+font-size: 14px;
+}
+:root{
+--section-padding:50px;
+}
+/*============= common css end ==============*/
+/*============== navbar css start ============*/
+.px-5 {
+padding-right: 0rem !important;
+padding-left: 0rem !important;
+}
+nav{
+text-align: center;
+}
+.navbar .navbar-nav {
+margin-right: 0px;
+}
+.navbar .nav-link {
+font-size: 14px;
+}
+.navbar-toggler:focus {
+box-shadow: none;
+}
+.navbar-toggler i{
+	color: #fff;
+}
+.navbar .navbar-brand p {
+font-size: 20px;
+margin-left: 0px;
+}
+/*============== navbar css end ============*/
+/*============== banner css start ============*/
+#banner {
+padding: 60px 0;
+}
+#banner .banner-text h1 {
+font-size: 40px;
+margin-bottom: 16px;
+margin-top: -7px;
+padding-right: 285px;
+line-height: 45px;
+}
+#banner .banner-img img {
+right: -190px;
+top: -35%;
+width: 80%;
+position: absolute;
+}
+/*============== banner css end ============*/
+/*============== gain css start ============*/
+#gain .gain-text p {
+padding-right: 0px;
+}
+/*============== gain css end ============*/
+/*============== program css start ============*/
+#program .program-title h2 {
+padding-right: 0px;
+}
+#program .program-title h2::after {
+bottom: -20px;
+right: 0px;
+width: 100%;
+}
+#program .program-item .program-text .primary-text {
+font-size: 16px;
+padding-right: 0px;
+margin-top: 0px;
+}
+#program .program-item .program-text .secondary-text {
+margin: 10px 0;
+padding-right: 0px;
+}
+#program .program-item .program-text .primary-text {
+margin-top: 10px;
+}
+.program-item .program-text .list ul li {
+font-size: 14px;
+line-height: 25px;
+}
+.program-item .program-text .rear-text {
+font-size: 12px;
+}
+#program {
+padding-bottom: 40px;
+}
+/*============== program css start ============*/
+/*============== slider css start ============*/
+#slider .slider-title h2 {
+margin-bottom: 60px;
+}
+#slider .slider-title h2::after {
+bottom: -20px;
+right: 0px;
+width: 100%;
+}
+#slider .slider-text{
+margin-top: 20px;
+}
+#slider .slider-text h4 {
+margin: 15px 0;
+padding-right: 0px;
+}
+#slider .slider-text p {
+font-size: 14px;
+line-height: 20px;
+margin-right: 0px;
+}
+h5 {
+font-size: 18px;
+line-height: 0px;
+}
+#slider .slider-text .pstyle {
+font-size: 14px;
+line-height: 24px;
+color: #4D5F93;
+}
+#slider .prev {
+width: 46px;
+height: 46px;
+line-height: 46px;
+right: 55px;
+}
+#slider .next {
+width: 46px;
+height: 46px;
+line-height: 46px;
+}
+/*============== slider css end ============*/
+/*============== books-slider css end ============*/
+.books-slider {
+top: -115px;
+}
+#books-slider {
+margin-bottom: 0px;
+}
+#books .books-title h2::after {
+bottom: -20px;
+right: 0px;
+width: 100%;
+}
+.slick-initialized .slick-slide {
+margin: 0 5px;
+}
+#books-slider .prev {
+width: 46px;
+height: 46px;
+line-height: 46px;
+bottom: -80px;
+right: 75px;
+}
+#books-slider .next {
+width: 46px;
+height: 46px;
+line-height: 46px;
+bottom: -80px;
+}
+#books-slider .slick-dots .slick-active button {
+width: 13px;
+height: 13px;
+}
+#books-slider .slick-dots li button {
+width: 6px;
+height: 6px;
+margin-right: 8px;
+}
+#books-slider .slick-dots {
+bottom: -85px;
+}
+/*============== books-slider css end ============*/
+/*============== books-slider css end ============*/
+#subscribe {
+position: relative;
+top: 0;
+}
+#subscribe .subscribe {
+padding: 10px 30px 20px 30px;
+border-radius: 20px;
+}
+#subscribe .subscribe h3 {
+font-size: 21px;
+margin-bottom: 10px;
+}
+#subscribe .subscribe form input {
+padding: 10px;
+font-size: 12px;
+border-radius: 7px;
+}
+#subscribe .subscribe form #email {
+padding: 10px;
+margin-bottom: 15px;
+}
+.subscribe-img {
+margin-left: 0px;
+margin-bottom: 20px;
+}
+/*============== books-slider css end ============*/
+/*============== footer css start ============*/
+footer {
+padding-top: 20px;
+text-align: center;
+}
+footer .footer-hadding{
+padding-top: var(--section-padding);
+}
+footer .footer-hadding h2 {
+margin-top: 20px;
+}
+footer .footer-text p {
+margin-top: 0px;
+}
+.footer-btn {
+text-align: center;
+margin-top: 0px;
+}
+footer::after {
+bottom: 174px;
+left: 0px;
+width: 100%;
+}
+.footer-copyright .text p {
+font-size: 12px;
+margin-top: 10px;
+}
+.footer-copyright .icone{
+font-size: 20px;
+margin-right: 0px;
+text-align: center;
+}
+.footer-copyright .number p {
+font-size: 14px;
+text-align: center;
+}
+/*============== footer css end ============*/
+}
+/*========== sm css responsive end ============*/
+
+/*========== xx sm css responsive start ============*/
+@media(max-width:575px) {
+/*============= common css start ==============*/
+h4 {
+font-size: 23px;
+line-height: 31px;
+}
+h2 {
+font-size: 35px;
+line-height: 45px;
+}
+.secondary-text {
+font-size: 14px;
+line-height: 23px;
+}
+.button {
+padding: 8px 18px;
+font-size: 14px;
+}
+:root{
+--section-padding:50px;
+}
+/*============= common css end ==============*/
+/*============== navbar css start ============*/
+.px-5 {
+padding-right: 0rem !important;
+padding-left: 0rem !important;
+}
+nav{
+text-align: center;
+}
+.navbar .navbar-nav {
+margin-right: 0px;
+}
+.navbar .nav-link {
+font-size: 14px;
+}
+.navbar-toggler:focus {
+box-shadow: none;
+}
+.navbar-toggler i{
+	color: #fff;
+}
+.navbar .navbar-brand p {
+font-size: 14px;
+margin-left: 0px;
+}
+/*============== navbar css end ============*/
+/*============== banner css start ============*/
+#banner {
+padding: 50px 0;
+}
+#banner .banner-text h1 {
+font-size: 40px;
+margin-bottom: 16px;
+margin-top: -7px;
+padding-right: 285px;
+line-height: 45px;
+}
+#banner .banner-img img {
+right: -110px;
+top: -9%;
+width: 80%;
+}
+/*============== banner css end ============*/
+/*============== gain css start ============*/
+#gain .gain-text p {
+padding-right: 0px;
+}
+/*============== gain css end ============*/
+/*============== program css start ============*/
+#program .program-title h2 {
+padding-right: 0px;
+}
+#program .program-title h2::after {
+bottom: -20px;
+right: 0px;
+width: 100%;
+}
+#program .program-item .program-text .primary-text {
+font-size: 16px;
+padding-right: 0px;
+margin-top: 0px;
+}
+#program .program-item .program-text .secondary-text {
+margin: 10px 0;
+padding-right: 0px;
+}
+#program .program-item .program-text .primary-text {
+margin-top: 10px;
+}
+.program-item .program-text .list ul li {
+font-size: 14px;
+line-height: 25px;
+}
+.program-item .program-text .rear-text {
+font-size: 12px;
+}
+#program {
+padding-bottom: 40px;
+}
+/*============== program css start ============*/
+/*============== slider css start ============*/
+#slider .slider-title h2 {
+margin-bottom: 60px;
+}
+#slider .slider-title h2::after {
+bottom: -20px;
+right: 0px;
+width: 100%;
+}
+#slider .slider-text{
+margin-top: 20px;
+}
+#slider .slider-text h4 {
+margin: 15px 0;
+padding-right: 0px;
+}
+#slider .slider-text p {
+font-size: 14px;
+line-height: 20px;
+margin-right: 0px;
+}
+h5 {
+font-size: 18px;
+line-height: 0px;
+}
+#slider .slider-text .pstyle {
+font-size: 14px;
+line-height: 24px;
+color: #4D5F93;
+}
+#slider .prev {
+width: 46px;
+height: 46px;
+line-height: 46px;
+right: 55px;
+}
+#slider .next {
+width: 46px;
+height: 46px;
+line-height: 46px;
+}
+/*============== slider css end ============*/
+/*============== books-slider css end ============*/
+.books-slider {
+top: -115px;
+}
+#books-slider {
+margin-bottom: 0px;
+}
+#books .books-title h2::after {
+bottom: -20px;
+right: 0px;
+width: 100%;
+}
+.slick-initialized .slick-slide {
+margin: 0 5px;
+}
+#books-slider .prev {
+width: 46px;
+height: 46px;
+line-height: 46px;
+bottom: -80px;
+right: 75px;
+}
+#books-slider .next {
+width: 46px;
+height: 46px;
+line-height: 46px;
+bottom: -80px;
+}
+#books-slider .slick-dots .slick-active button {
+width: 13px;
+height: 13px;
+}
+#books-slider .slick-dots li button {
+width: 6px;
+height: 6px;
+margin-right: 8px;
+}
+#books-slider .slick-dots {
+bottom: -85px;
+}
+/*============== books-slider css end ============*/
+/*============== books-slider css end ============*/
+#subscribe {
+position: relative;
+top: 0;
+}
+#subscribe .subscribe {
+padding: 10px 30px 20px 30px;
+border-radius: 20px;
+}
+#subscribe .subscribe h3 {
+font-size: 21px;
+margin-bottom: 10px;
+}
+#subscribe .subscribe form input {
+padding: 10px;
+font-size: 12px;
+border-radius: 7px;
+}
+#subscribe .subscribe form #email {
+padding: 10px;
+margin-bottom: 15px;
+}
+.subscribe-img {
+margin-left: 0px;
+margin-bottom: 20px;
+}
+/*============== books-slider css end ============*/
+/*============== footer css start ============*/
+footer {
+padding-top: 20px;
+text-align: center;
+}
+footer .footer-hadding{
+padding-top: var(--section-padding);
+}
+footer .footer-hadding h2 {
+margin-top: 20px;
+}
+footer .footer-text p {
+margin-top: 0px;
+}
+.footer-btn {
+text-align: center;
+margin-top: 0px;
+}
+footer::after {
+bottom: 174px;
+left: 0px;
+width: 100%;
+}
+.footer-copyright .text p {
+font-size: 12px;
+margin-top: 10px;
+}
+.footer-copyright .icone{
+font-size: 20px;
+margin-right: 0px;
+text-align: center;
+}
+.footer-copyright .number p {
+font-size: 14px;
+text-align: center;
+}
+/*============== footer css end ============*/
+}
+/*========== xx sm css responsive end ============*/
